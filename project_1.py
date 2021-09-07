@@ -1,7 +1,7 @@
 #!/usr/bin/env/python
 
 import os
-os.system("apt-get install nikto")
+
 os.system("apt-get install figlet")
 os.system("clear")
 os.system("figlet Simple vulnerability Analysis ")
